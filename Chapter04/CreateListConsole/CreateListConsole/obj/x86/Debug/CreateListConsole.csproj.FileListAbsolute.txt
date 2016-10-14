@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConsole\CreateListConsole\bin\Debug\CreateListConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConsole\CreateListConsole\bin\Debug\CreateListConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConsole\CreateListConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConsole\CreateListConsole\obj\x86\Debug\CreateListConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConsole\CreateListConsole\obj\x86\Debug\CreateListConsole.pdb

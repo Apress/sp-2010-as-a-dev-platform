@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ConsoleApplicationFarm\ConsoleApplicationFarm\obj\x64\Debug\ConsoleApplicationTest.exe
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ConsoleApplicationFarm\ConsoleApplicationFarm\obj\x64\Debug\ConsoleApplicationTest.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ConsoleApplicationFarm\ConsoleApplicationFarm\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ConsoleApplicationFarm\ConsoleApplicationFarm\bin\x64\Debug\ConsoleApplicationTest.exe
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ConsoleApplicationFarm\ConsoleApplicationFarm\bin\x64\Debug\ConsoleApplicationTest.pdb

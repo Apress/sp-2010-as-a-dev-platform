@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="c28b7c1a-0359-4a2a-8abc-3244af569883">
+  <Assemblies>
+    <Assembly Location="WebProvisioning.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="WebProvisioning_WebMonitorFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

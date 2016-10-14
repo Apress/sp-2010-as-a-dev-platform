@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="366db970-603e-4244-9926-0276c333e163">
+  <Assemblies>
+    <Assembly Location="UtilityExperiment.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\UtilityExperiment\PageSPUtility.aspx" />
+    <TemplateFile Location="Layouts\UtilityExperiment\SecurityUtils.aspx" />
+  </TemplateFiles>
+</Solution>

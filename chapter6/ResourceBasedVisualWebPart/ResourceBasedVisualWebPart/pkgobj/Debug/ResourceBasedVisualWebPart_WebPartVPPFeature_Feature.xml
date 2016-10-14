@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual WebPart Feature" Id="d639ff8d-117e-4c6d-951e-caf3ff8b51f7" ReceiverAssembly="ResourceBasedVisualWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0534c696c9dc4a0d" ReceiverClass="ResourceBasedVisualWebPart.Features.WebPartVPPFeature.WebPartVPPFeatureEventReceiver" Scope="Site" Title="ResourceBasedVisualWebPart Feature1">
+  <ElementManifests>
+    <ElementFile Location="VPPWebPart\VisualWebPart1.webpart" />
+    <ElementManifest Location="VPPWebPart\Elements.xml" />
+  </ElementManifests>
+</Feature>

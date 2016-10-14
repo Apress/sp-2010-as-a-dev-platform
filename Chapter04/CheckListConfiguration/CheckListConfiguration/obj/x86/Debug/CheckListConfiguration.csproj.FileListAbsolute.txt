@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\bin\Debug\CheckListConfiguration.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\bin\Debug\CheckListConfiguration.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\bin\Debug\CheckListConfiguration.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\obj\x86\Debug\CheckListConfiguration.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CheckListConfiguration\CheckListConfiguration\obj\x86\Debug\CheckListConfiguration.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="989e5189-1b04-4781-9b16-24875e9970bd">
+  <Assemblies>
+    <Assembly Location="SecurityModel.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SecurityModel\Http401Page.aspx" />
+    <TemplateFile Location="Layouts\SecurityModel\SecurePage.aspx" />
+  </TemplateFiles>
+</Solution>

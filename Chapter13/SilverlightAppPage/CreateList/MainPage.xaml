@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="CreateList.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400" xmlns:data="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Button Content="Create a new List using this name:" Height="23" HorizontalAlignment="Left" Margin="12,21,0,0" Name="btnCreate" VerticalAlignment="Top" Width="231" Click="btnCreate_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="268,21,0,0" Name="txtName" VerticalAlignment="Top" Width="120" />
+<data:DataGrid ItemsSource="{Binding}" AutoGenerateColumns="False" IsReadOnly="False" Height="200" HorizontalAlignment="Left" Margin="12,72,0,0" Name="dgFields" VerticalAlignment="Top" Width="376">
+    <data:DataGrid.Columns>
+        <data:DataGridTemplateColumn Header="Name" Width="200">
+            <data:DataGridTemplateColumn.CellTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" 
+                                  Foreground="Green" 
+                                  FontWeight="Bold"
+                                  VerticalAlignment="Center"/>
+                </DataTemplate>
+            </data:DataGridTemplateColumn.CellTemplate>
+            <data:DataGridTemplateColumn.CellEditingTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Edit: " Grid.Column="0" />
+                        <TextBox Text="{Binding Name, Mode=TwoWay}" Grid.Column="1" />
+                    </Grid>
+                </DataTemplate>
+            </data:DataGridTemplateColumn.CellEditingTemplate>
+        </data:DataGridTemplateColumn>
+        <data:DataGridCheckBoxColumn Binding="{Binding Mode=TwoWay, Path=Type}" IsReadOnly="False" CanUserReorder="True" CanUserResize="True" CanUserSort="True" Header="Type (Check for 'Currency')" Width="Auto" />
+    </data:DataGrid.Columns>
+</data:DataGrid>
+        <Slider Height="23" HorizontalAlignment="Left" Margin="268,43,0,0" Name="slider1" VerticalAlignment="Top" Width="120" ValueChanged="slider1_ValueChanged" SmallChange="1" LargeChange="2" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,47,0,0" Name="textBlock1" Text="Use slider to define the number of fields:" VerticalAlignment="Top" Width="231" />
+    </Grid>
+</UserControl>

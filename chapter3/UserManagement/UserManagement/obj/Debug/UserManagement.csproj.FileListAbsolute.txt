@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UserManagement\UserManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UserManagement\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UserManagement\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UserManagement\UserManagement\obj\Debug\UserManagement.pdb

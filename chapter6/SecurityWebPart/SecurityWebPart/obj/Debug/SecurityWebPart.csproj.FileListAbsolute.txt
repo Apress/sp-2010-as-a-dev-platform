@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SecurityWebPart\SecurityWebPart\bin\Debug\SecurityWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SecurityWebPart\SecurityWebPart\bin\Debug\SecurityWebPart.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SecurityWebPart\SecurityWebPart\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SecurityWebPart\SecurityWebPart\obj\Debug\SecurityWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SecurityWebPart\SecurityWebPart\obj\Debug\SecurityWebPart.pdb

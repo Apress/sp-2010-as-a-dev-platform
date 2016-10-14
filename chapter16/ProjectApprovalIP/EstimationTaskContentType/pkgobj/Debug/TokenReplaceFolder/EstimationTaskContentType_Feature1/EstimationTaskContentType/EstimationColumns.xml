@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field ID="{6CBABC50-4BC1-4399-BDC0-7C0155F2CC89}"
+         Name="EstimatedCosts"
+         DisplayName="EstimatedCosts"
+         StaticName="EstimatedCosts"
+         Description="The estimated costs for the project"
+         Type="Number"
+      ></Field>
+	<Field ID="{074AE023-34DD-4C2A-AA67-F9B88063C2BC}"
+         Name="Outcome"
+         DisplayName="Outcome"
+         StaticName="Outcome"
+         Description="The estimated costs for the project"
+         Type="Text"
+      ></Field>
+</Elements>

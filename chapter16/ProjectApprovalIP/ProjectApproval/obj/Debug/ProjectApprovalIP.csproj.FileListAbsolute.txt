@@ -1,0 +1,5 @@
+D:\Projects\Projects\Workflows\ProjectApprovalIP\ProjectApproval\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects\Workflows\ProjectApprovalIP\ProjectApproval\bin\Debug\ProjectApprovalIP.dll
+D:\Projects\Projects\Workflows\ProjectApprovalIP\ProjectApproval\bin\Debug\ProjectApprovalIP.pdb
+D:\Projects\Projects\Workflows\ProjectApprovalIP\ProjectApproval\obj\Debug\ProjectApprovalIP.dll
+D:\Projects\Projects\Workflows\ProjectApprovalIP\ProjectApproval\obj\Debug\ProjectApprovalIP.pdb

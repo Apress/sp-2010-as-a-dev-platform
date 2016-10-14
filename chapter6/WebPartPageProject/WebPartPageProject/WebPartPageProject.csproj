@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F0CD015-B776-4936-87EA-1BD5640FFAEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebPartPageProject</RootNamespace>
+    <AssemblyName>WebPartPageProject</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BingWebPart\BingWebPart.cs" />
+    <Compile Include="BingWebPart\BingWebPartUserControl.ascx.cs">
+      <DependentUpon>BingWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BingWebPart\BingWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>BingWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BingWebPart\Coordinates.cs" />
+    <Compile Include="BingWebPart\CoordinatesEditorPart.cs" />
+    <Compile Include="BingWebPart\CoordinatesEditor.ascx.cs">
+      <DependentUpon>CoordinatesEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BingWebPart\CoordinatesEditor.ascx.designer.cs">
+      <DependentUpon>CoordinatesEditor.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SourceWebPart\IImageSelectorProvider.cs" />
+    <Compile Include="SourceWebPart\SourceWebPart.cs" />
+    <Compile Include="TargetWebPart\TargetWebPart.cs" />
+    <Compile Include="Layouts\WebPartPageProject\WebPartPage.aspx.cs">
+      <DependentUpon>WebPartPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\WebPartPageProject\WebPartPage.aspx.designer.cs">
+      <DependentUpon>WebPartPage.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BingWebPart\BingWebPart.webpart" />
+    <None Include="BingWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{61a546d9-15e9-449b-a603-bac2d4ca89c8}</SharePointProjectItemId>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="SourceWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{21ea1d4c-e162-4b33-bfde-2f6de4fc9e14}</SharePointProjectItemId>
+    </None>
+    <None Include="SourceWebPart\SourceWebPart.webpart" />
+    <None Include="TargetWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{33596d5e-027d-40cf-bcec-49b5568576bc}</SharePointProjectItemId>
+    </None>
+    <None Include="TargetWebPart\TargetWebPart.webpart" />
+    <None Include="Features\Feature1\Feature1.feature">
+      <FeatureId>{dd580e8a-6d7d-440c-bfdf-ea19101916c7}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{efb97728-04f3-4822-acb1-5877650eacc8}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{62ad2e91-9449-45ca-a42d-42f7762fad72}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BingWebPart\StaticResource.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BingWebPart\BingWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+      <Generator>ResourceWriter</Generator>
+    </Content>
+    <Content Include="BingWebPart\Elements.xml" />
+    <Content Include="BingWebPart\CoordinatesEditor.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="SourceWebPart\Elements.xml" />
+    <Content Include="TargetWebPart\Elements.xml" />
+    <Content Include="Features\Feature1\Feature1.Template.xml">
+      <DependentUpon>Feature1.feature</DependentUpon>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Layouts\WebPartPageProject\WebPartPage.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

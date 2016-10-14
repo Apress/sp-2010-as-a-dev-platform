@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ConnectedWebParts\ConnectedWebParts\bin\Debug\ConnectedWebParts.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ConnectedWebParts\ConnectedWebParts\bin\Debug\ConnectedWebParts.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ConnectedWebParts\ConnectedWebParts\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ConnectedWebParts\ConnectedWebParts\obj\Debug\ConnectedWebParts.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ConnectedWebParts\ConnectedWebParts\obj\Debug\ConnectedWebParts.pdb

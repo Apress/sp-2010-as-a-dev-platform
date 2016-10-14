@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkflowInfo>
+  <Actions Sequential="then" Parallel="and">
+    <Action Name="Lookup Item By Title"
+      ClassName="SPDActivities.LookupItem"
+      Assembly="SPDActivities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=07ca925dce31cf11"
+      AppliesTo="all"
+      Category="List Actions">
+      <RuleDesigner Sentence="Find item in %1 with Query %2 (Output to %3)">
+        <FieldBind Field="ListId" Text="this list" Id="1" DesignerType="ListNames" />
+        <FieldBind Field="SearchQuery" Text="CAML" Id="2" DesignerType="StringBuilder" />
+        <FieldBind Field="ResultItemId" DesignerType="ParameterNames" Text="result" Id="3"/>
+      </RuleDesigner>
+      <Parameters>
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext" Direction="In" DesignerType="Hide" />
+        <Parameter Name="ListId" Type="System.String, mscorlib" Direction="In"
+            Description="Canonical form of the list GUID used by this action." />
+        <Parameter Name="SearchQuery" Type="System.String, mscorlib" Direction="In"
+            Description="Dynamic string used to search an item." />
+        <Parameter Name="ResultItemId" Type="System.Int32, mscorlib" Direction="Out"
+            Description="ID of the first list item that matches the query." />
+      </Parameters>
+    </Action>
+  </Actions>
+</WorkflowInfo>

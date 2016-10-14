@@ -1,0 +1,5 @@
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\FullTrustProxy\obj\Debug\ResolveAssemblyReference.cache
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\FullTrustProxy\bin\Debug\FullTrustProxy.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\FullTrustProxy\bin\Debug\FullTrustProxy.pdb
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\FullTrustProxy\obj\Debug\FullTrustProxy.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\FullTrustProxy\obj\Debug\FullTrustProxy.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="200535c6-cb72-4875-b09f-1770c8c24cc1" solutionId="200535c6-cb72-4875-b09f-1770c8c24cc1" resetWebServer="false" name="ApressSPDActions" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="SPDActivities.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\SPDActivities\bin\Debug\SPDActivities.dll">
+      <safeControls>
+        <safeControl assemblyName="SPDActivities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=07ca925dce31cf11" namespaceName="SPDActivities" typeName="*" />
+      </safeControls>
+    </customAssembly>
+  </assemblies>
+  <features>
+    <featureReference itemId="677105b1-4175-4f3b-9d85-62db2f05092f" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="7035584f-a64b-40da-8cb3-44349e9ab5c8" />
+  </projectItems>
+</package>

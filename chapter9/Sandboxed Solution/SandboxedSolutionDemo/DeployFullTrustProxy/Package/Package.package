@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3a721a9d-9756-4420-9938-8d428ca42357" solutionId="3a721a9d-9756-4420-9938-8d428ca42357" resetWebServer="false" name="DeployFullTrustProxy" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="FullTrustProxy.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\FullTrustProxy\FullTrustProxy.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="ab47ac29-976a-427f-a333-f9bff1443fe2" />
+  </features>
+</package>

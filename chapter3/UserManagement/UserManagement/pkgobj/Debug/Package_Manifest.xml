@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="027a07c2-4ba8-4459-8153-f5bb4b273762">
+  <Assemblies>
+    <Assembly Location="UserManagement.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\UserManagement\AddGroup.aspx" />
+    <TemplateFile Location="Layouts\UserManagement\ElevatedPrivileges.aspx" />
+    <TemplateFile Location="Layouts\UserManagement\RetrieveUsers.aspx" />
+  </TemplateFiles>
+</Solution>

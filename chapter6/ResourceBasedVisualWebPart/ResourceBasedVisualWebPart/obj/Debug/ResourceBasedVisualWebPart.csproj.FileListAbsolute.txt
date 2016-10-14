@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourceBasedVisualWebPart\ResourceBasedVisualWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourceBasedVisualWebPart\ResourceBasedVisualWebPart\bin\Debug\ResourceBasedVisualWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourceBasedVisualWebPart\ResourceBasedVisualWebPart\bin\Debug\ResourceBasedVisualWebPart.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourceBasedVisualWebPart\ResourceBasedVisualWebPart\obj\Debug\ResourceBasedVisualWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourceBasedVisualWebPart\ResourceBasedVisualWebPart\obj\Debug\ResourceBasedVisualWebPart.pdb

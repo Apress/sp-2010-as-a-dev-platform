@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateSiteCollection", "CreateSiteCollection\CreateSiteCollection.csproj", "{5BA265B6-AC40-49FF-97FE-2E368DC112FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWeb", "CreateWeb\CreateWeb.csproj", "{89EADFE9-43B6-477E-B154-5D783DC571E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAddModifyProperties", "ReadAddModifyProperties\ReadAddModifyProperties.csproj", "{62A12DA8-69B8-4EC7-943E-D254668D04D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA265B6-AC40-49FF-97FE-2E368DC112FB}.Debug|x86.ActiveCfg = Debug|x86
+		{5BA265B6-AC40-49FF-97FE-2E368DC112FB}.Debug|x86.Build.0 = Debug|x86
+		{5BA265B6-AC40-49FF-97FE-2E368DC112FB}.Release|x86.ActiveCfg = Release|x86
+		{5BA265B6-AC40-49FF-97FE-2E368DC112FB}.Release|x86.Build.0 = Release|x86
+		{89EADFE9-43B6-477E-B154-5D783DC571E9}.Debug|x86.ActiveCfg = Debug|x86
+		{89EADFE9-43B6-477E-B154-5D783DC571E9}.Debug|x86.Build.0 = Debug|x86
+		{89EADFE9-43B6-477E-B154-5D783DC571E9}.Release|x86.ActiveCfg = Release|x86
+		{89EADFE9-43B6-477E-B154-5D783DC571E9}.Release|x86.Build.0 = Release|x86
+		{62A12DA8-69B8-4EC7-943E-D254668D04D0}.Debug|x86.ActiveCfg = Debug|x86
+		{62A12DA8-69B8-4EC7-943E-D254668D04D0}.Debug|x86.Build.0 = Debug|x86
+		{62A12DA8-69B8-4EC7-943E-D254668D04D0}.Release|x86.ActiveCfg = Release|x86
+		{62A12DA8-69B8-4EC7-943E-D254668D04D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

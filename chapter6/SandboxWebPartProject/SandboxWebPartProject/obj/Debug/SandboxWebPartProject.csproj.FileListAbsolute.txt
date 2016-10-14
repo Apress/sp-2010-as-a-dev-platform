@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SandboxWebPartProject\SandboxWebPartProject\bin\Debug\SandboxWebPartProject.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SandboxWebPartProject\SandboxWebPartProject\bin\Debug\SandboxWebPartProject.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SandboxWebPartProject\SandboxWebPartProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SandboxWebPartProject\SandboxWebPartProject\obj\Debug\SandboxWebPartProject.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\SandboxWebPartProject\SandboxWebPartProject\obj\Debug\SandboxWebPartProject.pdb

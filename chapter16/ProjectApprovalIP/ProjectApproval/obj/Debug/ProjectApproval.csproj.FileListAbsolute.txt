@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.dll
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.pdb
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.dll
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.pdb
+C:\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.dll
+C:\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.pdb
+C:\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.dll
+C:\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.pdb
+D:\Projects\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.dll
+D:\Projects\Projects\Workflows\ProjectApproval\ProjectApproval\bin\Debug\ProjectApproval.pdb
+D:\Projects\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.dll
+D:\Projects\Projects\Workflows\ProjectApproval\ProjectApproval\obj\Debug\ProjectApproval.pdb

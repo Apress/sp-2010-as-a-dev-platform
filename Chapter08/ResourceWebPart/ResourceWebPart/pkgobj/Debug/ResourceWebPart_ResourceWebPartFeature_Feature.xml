@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="$Resources:FeatureDescription" Id="6a2eca6e-5000-456e-a693-a892d98685b3" Scope="Site" Title="$Resources:FeatureTitle">
+  <ElementManifests>
+    <ElementManifest Location="NonVisualWebPart\Elements.xml" />
+    <ElementFile Location="NonVisualWebPart\ResourceWebPart.webpart" />
+    <ElementFile Location="Resources\Resources.resx" />
+    <ElementFile Location="Resources\Resources.en.resx" />
+    <ElementFile Location="Resources\Resources.de.resx" />
+  </ElementManifests>
+</Feature>

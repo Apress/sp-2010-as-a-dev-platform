@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="RetrieveAllLists" EntryPointType="RetrieveAllLists.App" RuntimeVersion="3.0.40818.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="RetrieveAllLists" Source="RetrieveAllLists.dll" />
+    <AssemblyPart x:Name="Microsoft.SharePoint.Client.Silverlight" Source="Microsoft.SharePoint.Client.Silverlight.dll" />
+    <AssemblyPart x:Name="Microsoft.SharePoint.Client.Silverlight.Runtime" Source="Microsoft.SharePoint.Client.Silverlight.Runtime.dll" />
+  </Deployment.Parts>
+</Deployment>

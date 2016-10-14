@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="CustomVerbWebPart.WebPartVerbs, CustomVerbWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a19243c2edbaa106" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">WebPart Verbs</property>
+        <property name="Description" type="string">My Visual WebPart with Custom Verbs</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

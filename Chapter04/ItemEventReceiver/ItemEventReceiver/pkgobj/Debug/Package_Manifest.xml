@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="03dff703-3c24-4f9c-a247-42b4c67374c7" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ItemEventReceiver.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ItemEventReceiver_OwnerRolesFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

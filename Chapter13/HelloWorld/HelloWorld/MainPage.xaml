@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="HelloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="343" d:DesignWidth="498" xmlns:dataInput="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.Input">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Button Content="Push the button..." Height="50" HorizontalAlignment="Left" Margin="37,28,0,0" Name="button1" VerticalAlignment="Top" Width="128" />
+        <TextBlock Height="48" HorizontalAlignment="Left" Margin="210,30,0,0" Name="textBlock1" Text="This is what we usually call a 'Hello World' application." VerticalAlignment="Top" Width="228" TextWrapping="Wrap" />
+    </Grid>
+</UserControl>

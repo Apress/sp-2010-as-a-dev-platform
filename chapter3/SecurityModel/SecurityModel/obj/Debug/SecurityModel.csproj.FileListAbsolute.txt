@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\SecurityModel\SecurityModel\bin\Debug\SecurityModel.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\SecurityModel\SecurityModel\bin\Debug\SecurityModel.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\SecurityModel\SecurityModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\SecurityModel\SecurityModel\obj\Debug\SecurityModel.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\SecurityModel\SecurityModel\obj\Debug\SecurityModel.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateNewView\CreateNewView\bin\Debug\CreateNewView.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateNewView\CreateNewView\bin\Debug\CreateNewView.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateNewView\CreateNewView\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateNewView\CreateNewView\obj\x86\Debug\CreateNewView.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateNewView\CreateNewView\obj\x86\Debug\CreateNewView.pdb

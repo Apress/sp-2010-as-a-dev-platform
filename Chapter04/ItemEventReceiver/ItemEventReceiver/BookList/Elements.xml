@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Do not change the value of the Name attribute below. If it does not match the folder name of the List Definition project item, an error will occur when the project is run. -->
+  <ListTemplate
+      Name="BookList"
+      Type="10001"
+      BaseType="0"
+      OnQuickLaunch="TRUE"
+      SecurityBits="11"
+      Sequence="410"
+      DisplayName="BookListDefinition"
+      Description="My List Definition"
+      Image="/_layouts/images/itgen.png"/>
+  <ContentType ID="0x01001727d5266f5242e8bd8332b99ce66b8f"
+                 Name="BookListContentType"
+                 Group="Custom Content Types"
+                 Description="My Content Type"
+                 Inherits="TRUE"
+                 Version="0">
+    <FieldRefs>
+      <FieldRef
+        ID="{39CC019D-0F95-48DD-A1F5-7063F6F27B83}"
+        />
+      <FieldRef
+        ID="{F7E4966D-B55A-492A-91FE-19D6208791AD}"
+        />
+      <FieldRef
+        ID="{0033FF6C-6B91-4B46-AE91-0B501D1AC1FA}"
+        />
+    </FieldRefs>
+  </ContentType>
+</Elements>

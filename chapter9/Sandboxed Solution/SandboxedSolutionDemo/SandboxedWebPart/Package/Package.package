@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="fa1cb2c2-4b30-4ff8-b898-d8d872100c24" solutionId="fa1cb2c2-4b30-4ff8-b898-d8d872100c24" resetWebServer="false" name="SandboxedWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ea9502d3-0cb4-4bc0-990b-7b53e28e3d2f" />
+  </features>
+</package>

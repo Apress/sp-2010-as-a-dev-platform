@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="CustomVerbWebPart Feature" Description="My Visual WebPart Feature for WebPartVerbs Web Part." Id="fba8598f-727f-40e9-b14c-f1b189e9a379" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="WebPartVerbs\Elements.xml" />
+    <ElementFile Location="WebPartVerbs\WebPartVerbs.webpart" />
+  </ElementManifests>
+</Feature>

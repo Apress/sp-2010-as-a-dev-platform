@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="cfcf50f2-fe66-41d9-a8a0-3d0690dd3d65" ReceiverAssembly="DeployFullTrustProxy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c10064bc890b6b2" ReceiverClass="APRESS.SP2010.DeployFullTrustProxy.Features.Feature1.Feature1EventReceiver" Scope="Farm" Title="DeployFullTrustProxy Feature"></Feature>

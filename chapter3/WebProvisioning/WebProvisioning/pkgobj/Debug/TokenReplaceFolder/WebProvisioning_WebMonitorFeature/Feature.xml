@@ -1,0 +1,5 @@
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Web Monitor Feature" Description="Monitors creation and deletion of sub sites." Id="e556dc9b-aa46-4917-89e3-f6d08fa0ec6c" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="SiteEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

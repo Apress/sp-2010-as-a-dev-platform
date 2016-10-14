@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectApproval", "ProjectApproval\ProjectApproval.csproj", "{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstimationTaskContentType", "EstimationTaskContentType\EstimationTaskContentType.csproj", "{DF3F168B-1F22-43F0-A5CA-1608F306386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDDF35D-207F-45F1-9C16-5FEBF7E9868A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3F168B-1F22-43F0-A5CA-1608F306386A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

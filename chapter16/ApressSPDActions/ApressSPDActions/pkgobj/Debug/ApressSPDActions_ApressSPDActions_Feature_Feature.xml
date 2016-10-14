@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ApressSPDActions Feature1" Id="38971882-bac0-467e-9d05-f5051694f9c6" ReceiverAssembly="ApressSPDActions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=10e9cbb43bd4e95a" ReceiverClass="ApressSPDActions.Features.ApressSPDActions_Feature.ApressSPDActions_FeatureEventReceiver" Scope="WebApplication"></Feature>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fa1cb2c2-4b30-4ff8-b898-d8d872100c24" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SandboxedWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SandboxedWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c9ebaff5add657a" Namespace="APRESS.SP2010.SandboxedWebPart.SandboxWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SandboxedWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

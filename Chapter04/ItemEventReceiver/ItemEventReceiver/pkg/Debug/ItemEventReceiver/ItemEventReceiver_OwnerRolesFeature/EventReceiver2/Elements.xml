@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="10001">
+      <Receiver>
+        <Name>EventReceiver2ItemAdding</Name>
+        <Type>ItemAdding</Type>
+        <Assembly>ItemEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7289350e46a7757</Assembly>
+        <Class>ItemEventReceiver.EventReceiver2.EventReceiver2</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>EventReceiver2ItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>ItemEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7289350e46a7757</Assembly>
+        <Class>ItemEventReceiver.EventReceiver2.EventReceiver2</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

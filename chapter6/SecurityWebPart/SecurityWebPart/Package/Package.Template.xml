@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/">
+<CodeAccessSecurity>
+  <PolicyItem>
+    <PermissionSet class="NamedPermissionSet" version="1" Description="Please trust me!">
+      <IPermission class="System.Diagnostics.EventLogPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" 
+                  PermissionAccess="Write"
+   />
+    </PermissionSet>
+    <Assemblies>
+      <Assembly Name="SecurityWebPart" />
+    </Assemblies>
+  </PolicyItem>
+</CodeAccessSecurity>
+</Solution>

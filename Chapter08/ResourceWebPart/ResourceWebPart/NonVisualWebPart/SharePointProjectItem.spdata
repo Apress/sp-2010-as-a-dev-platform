@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.WebPart" DefaultFile="ResourceWebPart.cs" SupportedTrustLevels="All" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="NonVisualWebPart\" Type="ElementManifest" />
+    <ProjectItemFile Source="ResourceWebPart.webpart" Target="NonVisualWebPart\" Type="ElementFile" />
+    <ProjectItemFile Source="ResourceWebPart.en.resx" Target="Resources\NonVisualWebPart\" Type="RootFile" />
+    <ProjectItemFile Source="ResourceWebPart.de.resx" Target="Resources\NonVisualWebPart\" Type="RootFile" />
+    <ProjectItemFile Source="ResourceWebPart.resx" Target="Resources\NonVisualWebPart\" Type="RootFile" />
+    <ProjectItemFile Source="MyResources\Strings.resx" Target="Resources\NonVisualWebPart\" Type="RootFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Apress.SP2010.ResourceWebPart" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

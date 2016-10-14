@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers >
+      <Receiver>
+        <Name>SiteEventReceiverWebDeleting</Name>
+        <Type>WebDeleting</Type>
+        <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+        <Class>WebProvisioning.SiteEventReceiver.SiteEventReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>SiteEventReceiverWebAdding</Name>
+        <Type>WebAdding</Type>
+        <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+        <Class>WebProvisioning.SiteEventReceiver.SiteEventReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+    <Receiver>
+      <Name>SiteEventReceiverWebProvisioned</Name>
+      <Type>WebProvisioned</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>WebProvisioning.SiteEventReceiver.SiteEventReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+      <Synchronization>Synchronous</Synchronization>
+    </Receiver>
+  </Receivers>
+</Elements>

@@ -1,0 +1,10 @@
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="WebPartPageProject Feature1" Id="cd61bb69-d05b-4572-8532-de6a2b0ea90d" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="BingWebPart\Elements.xml" />
+    <ElementFile Location="BingWebPart\BingWebPart.webpart" />
+    <ElementManifest Location="TargetWebPart\Elements.xml" />
+    <ElementFile Location="TargetWebPart\TargetWebPart.webpart" />
+    <ElementManifest Location="SourceWebPart\Elements.xml" />
+    <ElementFile Location="SourceWebPart\SourceWebPart.webpart" />
+  </ElementManifests>
+</Feature>

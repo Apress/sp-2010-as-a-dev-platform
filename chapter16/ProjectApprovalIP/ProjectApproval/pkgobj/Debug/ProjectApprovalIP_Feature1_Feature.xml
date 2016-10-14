@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ReceiverAssembly="Microsoft.Office.Workflow.Feature, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ReceiverClass="Microsoft.Office.Workflow.Feature.WorkflowFeatureReceiver" Title="ProjectApproval Workflow IP" Description="My SharePoint Workflow Feature" Id="cb83bf08-3423-4c45-9396-ac5ff6b5043d" Scope="Site">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+    <Property Key="RegisterForms" Value="*.xsn" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="ProjectApproval\workflow.xml" />
+    <ElementFile Location="ProjectApproval\AssociationForm.xsn" />
+    <ElementFile Location="ProjectApproval\EstimationTaskForm.xsn" />
+  </ElementManifests>
+</Feature>

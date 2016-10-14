@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter1\VisualWebPartDashboard\VisualWebPartDashboard\bin\Debug\VisualWebPartDashboard.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter1\VisualWebPartDashboard\VisualWebPartDashboard\bin\Debug\VisualWebPartDashboard.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter1\VisualWebPartDashboard\VisualWebPartDashboard\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter1\VisualWebPartDashboard\VisualWebPartDashboard\obj\Debug\VisualWebPartDashboard.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter1\VisualWebPartDashboard\VisualWebPartDashboard\obj\Debug\VisualWebPartDashboard.pdb

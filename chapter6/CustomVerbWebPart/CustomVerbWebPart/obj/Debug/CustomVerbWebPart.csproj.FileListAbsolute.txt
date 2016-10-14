@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\CustomVerbWebPart\CustomVerbWebPart\bin\Debug\CustomVerbWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\CustomVerbWebPart\CustomVerbWebPart\bin\Debug\CustomVerbWebPart.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\CustomVerbWebPart\CustomVerbWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\CustomVerbWebPart\CustomVerbWebPart\obj\Debug\CustomVerbWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\CustomVerbWebPart\CustomVerbWebPart\obj\Debug\CustomVerbWebPart.pdb

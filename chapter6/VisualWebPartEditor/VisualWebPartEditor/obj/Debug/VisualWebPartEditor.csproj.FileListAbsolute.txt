@@ -1,0 +1,10 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\VisualWebPartEditor\VisualWebPartEditor\bin\Debug\VisualWebPartEditor.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\VisualWebPartEditor\VisualWebPartEditor\bin\Debug\VisualWebPartEditor.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\VisualWebPartEditor.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\VisualWebPartEditor.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\VisualWebPartEditor\VisualWebPartEditor\bin\Debug\VisualWebPartEditor.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\VisualWebPartEditor\VisualWebPartEditor\bin\Debug\VisualWebPartEditor.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\VisualWebPartEditor.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter6\VisualWebPartEditor\VisualWebPartEditor\obj\Debug\VisualWebPartEditor.pdb

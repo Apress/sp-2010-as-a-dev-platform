@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="eb52538a-6297-40a0-98c1-36d4d2d729b2">
+  <Assemblies>
+    <Assembly Location="ApplicationPage.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\HRDepartment\ams.aspx" />
+    <TemplateFile Location="Layouts\HRDepartment\RootPage.aspx" />
+    <TemplateFile Location="Layouts\HRDepartment\erp.aspx" />
+    <TemplateFile Location="Layouts\HRDepartment\ess.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ApplicationPage_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

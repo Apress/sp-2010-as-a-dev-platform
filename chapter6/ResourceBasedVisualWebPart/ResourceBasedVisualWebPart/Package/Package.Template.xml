@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CodeAccessSecurity>
+      <PolicyItem>
+        <PermissionSet class="NamedPermissionSet" version="1" Description="Allow File Access">
+          <IPermission class="FileIOPermission" version="1" Unrestricted="true" />
+        </PermissionSet>
+        <Assemblies>
+          <Assembly Name="ResourceBasedVisualWebPart" />
+        </Assemblies>
+      </PolicyItem>
+  </CodeAccessSecurity>
+</Solution>

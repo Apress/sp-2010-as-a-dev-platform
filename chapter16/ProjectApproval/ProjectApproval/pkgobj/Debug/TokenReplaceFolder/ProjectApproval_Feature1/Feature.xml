@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ProjectApproval Workflow" Description="My SharePoint Workflow Feature" Id="44f1409b-8578-4657-8810-bcf06aba7dfa" Scope="Site">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="ProjectApproval\Elements.xml" />
+  </ElementManifests>
+</Feature>

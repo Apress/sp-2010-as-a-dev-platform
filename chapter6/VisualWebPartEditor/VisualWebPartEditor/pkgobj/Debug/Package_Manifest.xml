@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="81391247-bac6-49f8-a9a2-b9c681f84b3e">
+  <Assemblies>
+    <Assembly Location="VisualWebPartEditor.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="VisualWebPartEditor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0e294332698becd2" Namespace="VisualWebPartEditor.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\VisualWebPartEditor\EditorWebPart\VisualWebPart1UserControl.ascx" />
+    <TemplateFile Location="Layouts\VisualWebPartEditor\PopupEditor.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="VisualWebPartEditor_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

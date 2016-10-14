@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3a721a9d-9756-4420-9938-8d428ca42357" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="FullTrustProxy.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="DeployFullTrustProxy.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="DeployFullTrustProxy_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

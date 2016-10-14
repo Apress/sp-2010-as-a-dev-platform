@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SecurityWebPart.WebParts.WebPartMinimalTrust, SecurityWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9d03c43d49d6da12" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">WebPartMinimalTrust</property>
+        <property name="Description" type="string">My WebPart with custom CAS policy</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

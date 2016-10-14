@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ConnectedWebParts Feature" Description="Shows how to create a master / detail relation" Id="75f6dfd0-9f22-4cb4-9011-8203a36a2782" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="MasterWebPart\Elements.xml" />
+    <ElementFile Location="MasterWebPart\MasterWebPart.webpart" />
+    <ElementManifest Location="DetailWebPart\Elements.xml" />
+    <ElementFile Location="DetailWebPart\DetailWebPart.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,8 @@
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="WebPartPageProject Feature1" Id="cd61bb69-d05b-4572-8532-de6a2b0ea90d" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="AjaxTargetWebPart\Elements.xml" />
+    <ElementFile Location="AjaxTargetWebPart\TargetWebPart.webpart" />
+    <ElementManifest Location="AjaxSourceWebPart\Elements.xml" />
+    <ElementFile Location="AjaxSourceWebPart\SourceWebPart.webpart" />
+  </ElementManifests>
+</Feature>

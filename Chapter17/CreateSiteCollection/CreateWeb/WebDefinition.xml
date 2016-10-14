@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SiteDefinition>
+  <Url>InternetBlog</Url>
+  <Title>Generated Site</Title>
+  <Description>This site is being genereated by a script.</Description>
+  <LCID>1033</LCID>
+  <WebTemplate>Blog</WebTemplate>
+  <UniquePermissions>False</UniquePermissions>
+  <ConvertIfThere>False</ConvertIfThere>
+</SiteDefinition>

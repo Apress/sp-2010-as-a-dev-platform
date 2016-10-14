@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b9faf855-3fa2-419e-bb58-d201d599f490" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EstimationTaskContentType.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\ProjectApprovalForms\EstimationTask.aspx" />
+    <TemplateFile Location="Layouts\ProjectApprovalForms\ProjectApprovalAssociationForm.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="EstimationTaskContentType_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8c024006-66b0-4681-b3f9-b43417f51ad1" solutionId="06257393-b39d-47e1-b8e1-7c5730507e55" resetWebServer="false" name="ProjectApprovalIP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="44f1409b-8578-4657-8810-bcf06aba7dfa" />
+  </features>
+</package>

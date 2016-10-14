@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://winsrv2008as/</SharePointSiteUrl>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{BB1F664B-9266-4fd6-B973-E1E44974B511}">
+        <ProjectItemStore Id="{d4401f86-6a28-4feb-8111-ea59240c22c5}">
+          <DisplayName>ProjectApprovalWorkflow</DisplayName>
+          <HistoryList>Workflow History</HistoryList>
+          <HistoryListGuid>{a32278c7-eecc-4825-a48a-9679c7d7283c}</HistoryListGuid>
+          <TaskList>Tasks</TaskList>
+          <TaskListGuid>{20617eef-f36a-46c7-b178-235996d0ba78}</TaskListGuid>
+          <AutoAssociate>true</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://alexaspire/Lists/Projects/AllItems.aspx</ListURL>
+          <TargetList>Projects</TargetList>
+          <TargetListGuid>{d32fb962-280d-441e-b4fc-d38f142369ff}</TargetListGuid>
+          <StartOnCreate>true</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+        <ProjectItemStore Id="{5c99a2fe-be31-4421-9206-c7da7462d1a8}">
+          <DisplayName>ProjectApprovalWorkflow</DisplayName>
+          <HistoryList>Workflow History</HistoryList>
+          <HistoryListGuid>{a32278c7-eecc-4825-a48a-9679c7d7283c}</HistoryListGuid>
+          <TaskList>Tasks</TaskList>
+          <TaskListGuid>{20617eef-f36a-46c7-b178-235996d0ba78}</TaskListGuid>
+          <AutoAssociate>true</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://alexaspire/Lists/Projects/AllItems.aspx</ListURL>
+          <TargetList>Projects</TargetList>
+          <TargetListGuid>{d32fb962-280d-441e-b4fc-d38f142369ff}</TargetListGuid>
+          <StartOnCreate>true</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+        <ProjectItemStore Id="{2a7ddd00-75a3-4597-8201-6744e4ae8ac8}">
+          <DisplayName>ProjectApprovalWorkflow</DisplayName>
+          <HistoryList>Workflow History</HistoryList>
+          <HistoryListGuid>{c5ae53a9-203b-40f5-a670-c9fb8e632ea0}</HistoryListGuid>
+          <TaskList>Tasks</TaskList>
+          <TaskListGuid>{09b0a74b-3fa4-4987-8de7-e6f3711a327b}</TaskListGuid>
+          <AutoAssociate>true</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://winsrv2008as/Lists/Projects/AllItems.aspx</ListURL>
+          <TargetList>Projects</TargetList>
+          <TargetListGuid>{2e394f63-3e4b-4b30-b696-e6d7fbbac51f}</TargetListGuid>
+          <StartOnCreate>false</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

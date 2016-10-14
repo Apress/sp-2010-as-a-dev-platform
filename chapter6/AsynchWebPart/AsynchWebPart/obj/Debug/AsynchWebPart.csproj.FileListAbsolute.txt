@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\AsynchWebPart\AsynchWebPart\bin\Debug\AsynchWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\AsynchWebPart\AsynchWebPart\bin\Debug\AsynchWebPart.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\AsynchWebPart\AsynchWebPart\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\AsynchWebPart\AsynchWebPart\obj\Debug\AsynchWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\AsynchWebPart\AsynchWebPart\obj\Debug\AsynchWebPart.pdb

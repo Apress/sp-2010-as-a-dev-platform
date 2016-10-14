@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListConfiguration", "CheckListConfiguration\CheckListConfiguration.csproj", "{2F87F78E-6542-4BA1-B3C8-5053BF8C425B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F87F78E-6542-4BA1-B3C8-5053BF8C425B}.Debug|x86.ActiveCfg = Debug|x86
+		{2F87F78E-6542-4BA1-B3C8-5053BF8C425B}.Debug|x86.Build.0 = Debug|x86
+		{2F87F78E-6542-4BA1-B3C8-5053BF8C425B}.Release|x86.ActiveCfg = Release|x86
+		{2F87F78E-6542-4BA1-B3C8-5053BF8C425B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

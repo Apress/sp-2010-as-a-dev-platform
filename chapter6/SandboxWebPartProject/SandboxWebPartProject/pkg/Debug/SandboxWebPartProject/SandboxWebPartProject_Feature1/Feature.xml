@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ec5047f8-92bc-4640-9f40-10020a49a36f" Scope="Site" Title="SandboxWebPartProject Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SandboxWebPart\Elements.xml" />
+    <ElementFile Location="SandboxWebPart\SandboxWebPart.webpart" />
+  </ElementManifests>
+</Feature>

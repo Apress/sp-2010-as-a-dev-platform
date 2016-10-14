@@ -1,0 +1,5 @@
+C:\Users\Joerg\documents\visual studio 2010\Projects\chapter3\WebPartPageProject\WebPartPageProject\bin\Debug\WebPartPageProject.dll
+C:\Users\Joerg\documents\visual studio 2010\Projects\chapter3\WebPartPageProject\WebPartPageProject\bin\Debug\WebPartPageProject.pdb
+C:\Users\Joerg\documents\visual studio 2010\Projects\chapter3\WebPartPageProject\WebPartPageProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\documents\visual studio 2010\Projects\chapter3\WebPartPageProject\WebPartPageProject\obj\Debug\WebPartPageProject.dll
+C:\Users\Joerg\documents\visual studio 2010\Projects\chapter3\WebPartPageProject\WebPartPageProject\obj\Debug\WebPartPageProject.pdb

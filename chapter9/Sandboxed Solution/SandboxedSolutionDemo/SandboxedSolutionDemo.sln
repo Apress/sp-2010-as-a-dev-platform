@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeployFullTrustProxy", "DeployFullTrustProxy\DeployFullTrustProxy.csproj", "{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F1065E2A-E694-4CAB-804F-1169707656AA} = {F1065E2A-E694-4CAB-804F-1169707656AA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullTrustProxy", "FullTrustProxy\FullTrustProxy.csproj", "{F1065E2A-E694-4CAB-804F-1169707656AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxedWebPart", "SandboxedWebPart\SandboxedWebPart.csproj", "{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AEC41A-F029-4B60-9DF7-4C3DD6E3221A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F1065E2A-E694-4CAB-804F-1169707656AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1065E2A-E694-4CAB-804F-1169707656AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1065E2A-E694-4CAB-804F-1169707656AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1065E2A-E694-4CAB-804F-1169707656AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A6B231-E055-48F1-BF15-B42B8CE5F6D9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

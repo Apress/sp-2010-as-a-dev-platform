@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Customize the text in square brackets. 
+Remove brackets when filling in, e.g.
+Name="[NAME]" ==> Name="MyWorkflow" -->
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Workflow
+     Name="ProjectApprovalWorkflowIP"
+     Description="My SharePoint Workflow with InfoPath"
+     Id="0AE6882C-C69E-4455-A2E5-463DA0957B19"
+     CodeBesideClass="ProjectApprovalIP.ProjectApprovalIP"
+     CodeBesideAssembly="$assemblyname$"
+	 AssociationUrl="_layouts/CstWrkflIP.aspx"
+       ModificationUrl="_layouts/ModWrkflIP.aspx"
+       StatusUrl="_layouts/WrkStat.aspx">
+    <Categories/>
+    <MetaData>
+      <AssociationCategories>List</AssociationCategories>
+      <!-- Tags to specify InfoPath forms for the workflow; delete tags for forms that you do not have -->
+		<Association_FormURN>urn:schemas-microsoft-com:office:infopath:AssociationForm:-myXSD-2010-04-09T13-56-22</Association_FormURN>
+		<Task0_FormURN>urn:schemas-microsoft-com:office:infopath:EstimationTaskForm:-myXSD-2010-04-09T15-40-32</Task0_FormURN>
+		<!--
+       <Instantiation_FormURN>[URN FOR INSTANTIATION FORM]</Instantiation_FormURN>
+      <Task0_FormURN>urn:schemas-microsoft-com:office:infopath:EstimationTaskForm:-myXSD-2010-04-09T15-40-32</Task0_FormURN>
+      <Task1_FormURN>[URN FOR TASK (type 1) FORM]</Task1_FormURN>-->
+      <!-- Modification forms: create a unique guid for each modification form -->
+      <!--<Modification_[UNIQUE GUID]_FormURN>[URN FOR MODIFICATION FORM]</Modification_[UNIQUE GUID]_FormURN>
+      <Modification_[UNIQUE GUID]_Name>[NAME OF MODIFICATION TO BE DISPLAYED AS A LINK ON WORKFLOW STATUS PAGE</Modification_[UNIQUE GUID]_Name>
+      -->
+      <StatusPageUrl>_layouts/WrkStat.aspx</StatusPageUrl>
+    </MetaData>
+  </Workflow>
+</Elements>

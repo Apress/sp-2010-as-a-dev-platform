@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SolutionValidatorDemo Feature1" Id="29a8e9be-f3d0-4d09-b2b7-132edce46388" ReceiverAssembly="SolutionValidatorDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e0115dbfb5d3b1e3" ReceiverClass="APRESS.SP2010.SolutionValidatorDemo.Features.Feature1.Feature1EventReceiver" Scope="Farm"></Feature>

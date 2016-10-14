@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a236da89-bb91-4387-8f87-248be031da75">
+  <Assemblies>
+    <Assembly Location="ConnectedWebParts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ConnectedWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f706444ae7308735" Namespace="ConnectedWebParts" TypeName="*" />
+        <SafeControl Assembly="ConnectedWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f706444ae7308735" Namespace="ConnectedWebParts" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ConnectedWebParts_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

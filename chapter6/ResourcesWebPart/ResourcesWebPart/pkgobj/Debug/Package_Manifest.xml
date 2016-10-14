@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ff6b9ff3-5bff-4a46-b3e3-5765e0658f2e">
+  <Assemblies>
+    <Assembly Location="ResourcesWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ResourcesWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e781a26c9d8998cf" Namespace="ResourcesWebPart" TypeName="ResourceNonVisual" />
+        <SafeControl Assembly="ResourcesWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e781a26c9d8998cf" Namespace="ResourcesWebPart" TypeName="ResourcesVisual" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\NonVisual.de.resx" />
+    <RootFile Location="Resources\NonVisual.en.resx" />
+    <RootFile Location="Resources\VisualGlobalResource.resx" />
+  </RootFiles>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ResourcesWebPart\ResourcesVisual\ResourcesVisualUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ResourcesWebPart_ResourcesWebPartFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

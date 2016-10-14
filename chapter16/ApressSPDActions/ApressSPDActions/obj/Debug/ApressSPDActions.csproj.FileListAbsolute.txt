@@ -1,0 +1,5 @@
+C:\Projects\Workflows\ApressSPDActions\ApressSPDActions\bin\Debug\ApressSPDActions.dll
+C:\Projects\Workflows\ApressSPDActions\ApressSPDActions\bin\Debug\ApressSPDActions.pdb
+C:\Projects\Workflows\ApressSPDActions\ApressSPDActions\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Workflows\ApressSPDActions\ApressSPDActions\obj\Debug\ApressSPDActions.dll
+C:\Projects\Workflows\ApressSPDActions\ApressSPDActions\obj\Debug\ApressSPDActions.pdb

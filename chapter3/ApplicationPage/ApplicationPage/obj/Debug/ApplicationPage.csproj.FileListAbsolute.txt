@@ -1,0 +1,5 @@
+c:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ApplicationPage\ApplicationPage\bin\Debug\ApplicationPage.dll
+c:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ApplicationPage\ApplicationPage\bin\Debug\ApplicationPage.pdb
+c:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ApplicationPage\ApplicationPage\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ApplicationPage\ApplicationPage\obj\Debug\ApplicationPage.dll
+c:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ApplicationPage\ApplicationPage\obj\Debug\ApplicationPage.pdb

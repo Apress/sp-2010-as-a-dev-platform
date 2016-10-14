@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: InputTask (0x0108010085B9ABD15A15C54185F28AC545CB47FC) -->
+  <ContentType ID="0x0108010031cda7a5483c452f93520d98df2f824a"
+               Name="EstimationTaskContentType"
+               Group="Project Approval"
+               Description="Custom Task for ProjectApproval"
+               Version="0">
+    <FieldRefs>
+      <FieldRef ID="{6CBABC50-4BC1-4399-BDC0-7C0155F2CC89}" DisplayName="EstimatedCosts" Name="EstimatedCosts"/>
+		<FieldRef ID="{074AE023-34DD-4C2A-AA67-F9B88063C2BC}" DisplayName="Outcome" Name="Outcome"/>
+    </FieldRefs>
+    <XmlDocuments>
+      <XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+        <FormUrls xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+          <Edit>_layouts/ProjectApprovalForms/EstimationTask.aspx</Edit>
+        </FormUrls>
+      </XmlDocument>
+    </XmlDocuments>
+  </ContentType>
+</Elements>

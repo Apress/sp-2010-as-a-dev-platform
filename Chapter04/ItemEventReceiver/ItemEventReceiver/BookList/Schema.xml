@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="Microsoft SharePoint" Title="BookListDefinition" FolderCreation="FALSE" Direction="$Resources:Direction;" Url="Lists/ItemEventReceiver-BookList" BaseType="0" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <MetaData>
+    <ContentTypes>
+      <ContentTypeRef ID="0x01">
+        <Folder TargetName="Item" />
+      </ContentTypeRef>
+      <ContentTypeRef ID="0x0120" />
+      <ContentTypeRef ID="0x01001727d5266f5242e8bd8332b99ce66b8f" />
+    </ContentTypes>
+    <Fields>
+      <Field
+        ID="{39CC019D-0F95-48DD-A1F5-7063F6F27B83}"
+        Type="User"
+        Hidden="FALSE"
+        ShowInNewForm="TRUE" ShowInDisplayForm="TRUE" ShowInEditForm="TRUE" ShowAlways="TRUE"
+        Name="MyAuthor"
+        DisplayName="MyAuthor"
+        SourceID="http://schemas.microsoft.com/sharepoint/v3"
+        StaticName="MyAuthor"
+        />
+      <Field
+        ID="{F7E4966D-B55A-492A-91FE-19D6208791AD}"
+        Type="User"
+        ShowInNewForm="TRUE" ShowInDisplayForm="TRUE" ShowInEditForm="TRUE" ShowAlways="TRUE"
+        Hidden="FALSE"
+        Name="MyEditor"
+        DisplayName="MyEditor"
+        SourceID="http://schemas.microsoft.com/sharepoint/v3"
+        StaticName="MyEditor"
+        />
+      <Field
+        ID="{0033FF6C-6B91-4B46-AE91-0B501D1AC1FA}"
+        Type="Choice"
+        ShowInNewForm="TRUE" ShowInDisplayForm="TRUE" ShowInEditForm="TRUE" ShowAlways="TRUE"
+        Hidden="FALSE"
+        Name="Publisher"
+        DisplayName="Publisher"
+        SourceID="http://schemas.microsoft.com/sharepoint/v3"
+        StaticName="Publisher"
+        >
+        <CHOICES>
+          <CHOICE>Apress</CHOICE>
+          <CHOICE>Pearson</CHOICE>
+          <CHOICE>Whiley</CHOICE>
+          <CHOICE>SAMS</CHOICE>
+        </CHOICES>
+      </Field>
+    </Fields>
+    <Views>
+      <View BaseViewID="0" Type="HTML" MobileView="TRUE" TabularView="FALSE">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+          <FieldRef Name="LinkTitleNoMenu"></FieldRef>
+          <FieldRef Name="MyAuthor" ID="{39CC019D-0F95-48DD-A1F5-7063F6F27B83}"></FieldRef>
+          <FieldRef Name="MyEditor" ID="{F7E4966D-B55A-492A-91FE-19D6208791AD}"></FieldRef>
+          <FieldRef Name="Publisher" ID="{0033FF6C-6B91-4B46-AE91-0B501D1AC1FA}"></FieldRef>
+        </ViewFields>
+        <Query>
+          <OrderBy>
+            <FieldRef Name="Modified" Ascending="FALSE"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="AddNewAnnouncement" Location="Resource(wss,addnewitem)" />
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_ONET_HOME)" />
+        </ParameterBindings>
+      </View>
+      <View BaseViewID="1" Type="HTML" WebPartZoneID="Main" DisplayName="$Resources:core,objectiv_schema_mwsidcamlidC24;" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" SetupPath="pages\viewpage.aspx" ImageUrl="/_layouts/images/generic.png" Url="AllItems.aspx">
+        <Toolbar Type="Standard" />
+        <XslLink Default="TRUE">main.xsl</XslLink>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+          <FieldRef Name="Attachments"></FieldRef>
+          <FieldRef Name="LinkTitle"></FieldRef>
+          <FieldRef Name="MyAuthor" ID="{39CC019D-0F95-48DD-A1F5-7063F6F27B83}"></FieldRef>
+          <FieldRef Name="MyEditor" ID="{F7E4966D-B55A-492A-91FE-19D6208791AD}"></FieldRef>
+          <FieldRef Name="Publisher" ID="{0033FF6C-6B91-4B46-AE91-0B501D1AC1FA}"></FieldRef>
+        </ViewFields>
+        <Query>
+          <OrderBy>
+            <FieldRef Name="ID"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_DEFAULT)" />
+        </ParameterBindings>
+      </View>
+    </Views>
+    <Forms>
+      <Form Type="DisplayForm" Url="DispForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="EditForm" Url="EditForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="NewForm" Url="NewForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+    </Forms>
+  </MetaData>
+</List>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SecurityWebPart Feature1" Id="76293e09-c252-4d2e-9c21-41847c6065cd" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="WebPartMinimalTrust\Elements.xml" />
+    <ElementFile Location="WebPartMinimalTrust\WebPartMinimalTrust.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="AsynchWebPart" Description="Async Data Source" Id="85dd9376-2209-4ff5-a6e5-54874291e103" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="XmlFileWebPart\Elements.xml" />
+    <ElementFile Location="XmlFileWebPart\XmlFileWebPart.webpart" />
+    <ElementManifest Location="FeedWebPart\Elements.xml" />
+    <ElementFile Location="FeedWebPart\FeedWebPart.webpart" />
+  </ElementManifests>
+</Feature>

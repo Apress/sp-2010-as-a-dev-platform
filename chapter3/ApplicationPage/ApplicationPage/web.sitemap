@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode title="HR Department" url="HRDepartment/RootPage.aspx">
+    <siteMapNode title="Absense Management" url="HRDepartment/ams.aspx"></siteMapNode>
+    <siteMapNode title="Employee Self Service" url="HRDepartment/ess.aspx"></siteMapNode>
+    <siteMapNode title="Employee Referral Program" url="HRDepartment/erp.aspx"></siteMapNode>
+  </siteMapNode>
+</siteMap>

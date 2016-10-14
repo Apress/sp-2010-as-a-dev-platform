@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 10\Projects\SolutionValidatorDemo\SolutionValidatorDemo\bin\Debug\SolutionValidatorDemo.dll
+c:\users\administrator\documents\visual studio 10\Projects\SolutionValidatorDemo\SolutionValidatorDemo\bin\Debug\SolutionValidatorDemo.pdb
+c:\users\administrator\documents\visual studio 10\Projects\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 10\Projects\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\SolutionValidatorDemo.dll
+c:\users\administrator\documents\visual studio 10\Projects\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\SolutionValidatorDemo.pdb
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\SolutionValidatorDemo\SolutionValidatorDemo\bin\Debug\SolutionValidatorDemo.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\SolutionValidatorDemo\SolutionValidatorDemo\bin\Debug\SolutionValidatorDemo.pdb
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\ResolveAssemblyReference.cache
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\SolutionValidatorDemo.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\SolutionValidatorDemo\SolutionValidatorDemo\obj\Debug\SolutionValidatorDemo.pdb

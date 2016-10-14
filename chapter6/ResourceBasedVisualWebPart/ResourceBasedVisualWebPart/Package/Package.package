@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="bed56d86-f458-4469-a8b0-51efa87024d9" solutionId="bed56d86-f458-4469-a8b0-51efa87024d9" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="ResourceBasedVisualWebPart">
+    <features>
+        <featureReference itemId="d639ff8d-117e-4c6d-951e-caf3ff8b51f7" />
+    </features>
+</package>

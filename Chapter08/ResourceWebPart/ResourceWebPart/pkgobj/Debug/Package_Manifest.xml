@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e73c3ddf-0d37-453c-ae9f-6e1c178c67ad" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ResourceWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ResourceWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f1a37eabc8c1cbd4" Namespace="Apress.SP2010.ResourceWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\NonVisualWebPart\ResourceWebPart.en.resx" />
+    <RootFile Location="Resources\NonVisualWebPart\ResourceWebPart.de.resx" />
+    <RootFile Location="Resources\NonVisualWebPart\ResourceWebPart.resx" />
+    <RootFile Location="Resources\NonVisualWebPart\Strings.resx" />
+  </RootFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ResourceWebPart_ResourceWebPartFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

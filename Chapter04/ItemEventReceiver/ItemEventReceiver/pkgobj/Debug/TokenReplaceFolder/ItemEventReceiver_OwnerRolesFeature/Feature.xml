@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="OwnerRolesFeature" Description="The OwnerRolesFeature sets for the list the receiver is added to the owner groups from feature properties." Id="8b90e088-8df8-44d4-8764-8d05a5604a51" Scope="Web">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="ListInstance1\Elements.xml" />
+    <ElementManifest Location="BookList\Elements.xml" />
+    <ElementFile Location="BookList\Schema.xml" />
+    <ElementManifest Location="EventReceiver2\Elements.xml" />
+  </ElementManifests>
+</Feature>

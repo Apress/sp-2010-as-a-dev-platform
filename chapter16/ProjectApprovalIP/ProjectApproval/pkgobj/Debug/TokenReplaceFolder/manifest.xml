@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="06257393-b39d-47e1-b8e1-7c5730507e55" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ProjectApprovalIP.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ProjectApprovalIP_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

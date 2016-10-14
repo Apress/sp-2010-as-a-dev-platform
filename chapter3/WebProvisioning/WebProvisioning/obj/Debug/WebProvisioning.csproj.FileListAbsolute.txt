@@ -1,0 +1,5 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\WebProvisioning\WebProvisioning\bin\Debug\WebProvisioning.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\WebProvisioning\WebProvisioning\bin\Debug\WebProvisioning.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\WebProvisioning\WebProvisioning\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\WebProvisioning\WebProvisioning\obj\Debug\WebProvisioning.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\WebProvisioning\WebProvisioning\obj\Debug\WebProvisioning.pdb

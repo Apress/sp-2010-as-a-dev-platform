@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="AjaxWebPartPageProject.ConnectedWebPart.AjaxTargetWebPart, AjaxWebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">AjaxTargetWebPart</property>
+        <property name="Description" type="string">Target of a connected WebPart using Ajax</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="200535c6-cb72-4875-b09f-1770c8c24cc1">
+  <Assemblies>
+    <Assembly Location="SPDActivities.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SPDActivities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=07ca925dce31cf11" Namespace="SPDActivities" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+    <Assembly Location="ApressSPDActions.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="1033\Workflow\SPDActivities.actions" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ApressSPDActions_ApressSPDActions_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

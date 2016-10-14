@@ -1,0 +1,5 @@
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\SandboxedWebPart\bin\Debug\SandboxedWebPart.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\SandboxedWebPart\bin\Debug\SandboxedWebPart.pdb
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\SandboxedWebPart\obj\Debug\ResolveAssemblyReference.cache
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\SandboxedWebPart\obj\Debug\SandboxedWebPart.dll
+G:\0 D-Platte\SharePoint 2010 Buch\0 CodeBook\Sandboxed Solution\SandboxedSolutionDemo\SandboxedWebPart\obj\Debug\SandboxedWebPart.pdb

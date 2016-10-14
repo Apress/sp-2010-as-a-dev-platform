@@ -1,0 +1,10 @@
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="EstimationTaskContentTypeFeature" 
+		 Id="f7bc6a90-60c1-4d8b-805a-98790a4ce663" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="EstimationTaskContentType\EstimationColumns.xml" />
+    <ElementManifest Location="EstimationTaskContentType\Elements.xml" />
+  </ElementManifests>
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true"/>
+  </Properties>
+</Feature>

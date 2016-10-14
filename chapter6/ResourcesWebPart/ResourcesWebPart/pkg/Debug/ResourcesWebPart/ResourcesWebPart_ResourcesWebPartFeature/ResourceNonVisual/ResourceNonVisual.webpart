@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="ResourcesWebPart.ResourceNonVisual, ResourcesWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e781a26c9d8998cf" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">ResourcesNonVisual</property>
+        <property name="Description" type="string">Web part that is defined non visual and uses local resources</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\SPListConsoleApplication\SPListConsoleApplication\bin\Debug\SPListConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\SPListConsoleApplication\SPListConsoleApplication\bin\Debug\SPListConsoleApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\SPListConsoleApplication\SPListConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\SPListConsoleApplication\SPListConsoleApplication\obj\x86\Debug\SPListConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\SPListConsoleApplication\SPListConsoleApplication\obj\x86\Debug\SPListConsoleApplication.pdb

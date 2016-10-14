@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="ResourceBasedVisualWebPart.VisualWebPartVPP, ResourceBasedVisualWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0534c696c9dc4a0d" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">VisualWebPartVPP</property>
+        <property name="Description" type="string">My Visual WebPart loaded from assembly resource</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

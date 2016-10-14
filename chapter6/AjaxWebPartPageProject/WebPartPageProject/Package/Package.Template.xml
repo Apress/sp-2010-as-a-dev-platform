@@ -1,0 +1,13 @@
+﻿<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="62ad2e91-9449-45ca-a42d-42f7762fad72">
+  <Assemblies>
+    <Assembly Location="AjaxWebPartPageProject.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="AjaxWebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" Namespace="AjaxWebPartPageProject.ConnectedWebPart" TypeName="AjaxSourceWebPart" SafeAgainstScript="True" Safe="True" />
+        <SafeControl Assembly="AjaxWebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" Namespace="AjaxWebPartPageProject.ConnectedWebPart" TypeName="AjaxTargetWebPart" SafeAgainstScript="True" Safe="True" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="AjaxWebPartPageProject_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

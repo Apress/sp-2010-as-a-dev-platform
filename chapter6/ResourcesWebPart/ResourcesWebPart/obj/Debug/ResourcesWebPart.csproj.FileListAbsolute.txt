@@ -1,0 +1,16 @@
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\bin\Debug\ResourcesWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\bin\Debug\ResourcesWebPart.pdb
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResourcesWebPart.StaticResources.resources
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResGen.read.1.tlog
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResGen.write.1.tlog
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResourcesWebPart.dll
+c:\users\joerg\documents\visual studio 2010\Projects\chapter3\ResourcesWebPartNonVisual\ResourcesWebPartNonVisual\obj\Debug\ResourcesWebPart.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\bin\Debug\ResourcesWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\bin\Debug\ResourcesWebPart.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResourcesWebPart.StaticResources.resources
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResGen.read.1.tlog
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResGen.write.1.tlog
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResourcesWebPart.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\ResourcesWebPart\ResourcesWebPart\obj\Debug\ResourcesWebPart.pdb

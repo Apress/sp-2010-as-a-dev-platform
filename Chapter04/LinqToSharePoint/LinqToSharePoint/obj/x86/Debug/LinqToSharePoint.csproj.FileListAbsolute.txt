@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\bin\Debug\LinqToSharePoint.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\bin\Debug\LinqToSharePoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\bin\Debug\LinqToSharePoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\obj\x86\Debug\LinqToSharePoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\LinqToSharePoint\LinqToSharePoint\obj\x86\Debug\LinqToSharePoint.pdb

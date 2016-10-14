@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b9faf855-3fa2-419e-bb58-d201d599f490" solutionId="b9faf855-3fa2-419e-bb58-d201d599f490" resetWebServer="false" name="EstimationTaskContentType" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="38d65d4a-8ce8-4197-8e0a-e960f334bcea" />
+    <featureReference itemId="72778994-8bee-4036-ab68-1b9c72898e70" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="8e932d81-68ef-4227-9a4c-0147cc8d5d72" />
+  </projectItems>
+</package>

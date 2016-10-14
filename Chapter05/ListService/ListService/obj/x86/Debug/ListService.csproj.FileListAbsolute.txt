@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\bin\Debug\ListService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\bin\Debug\ListService.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\bin\Debug\ListService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\obj\x86\Debug\ListService.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter05\ListService\ListService\obj\x86\Debug\ListService.pdb

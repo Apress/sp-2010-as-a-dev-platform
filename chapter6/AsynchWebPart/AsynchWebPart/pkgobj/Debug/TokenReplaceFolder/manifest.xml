@@ -1,0 +1,13 @@
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a93de033-b86b-424a-979b-7d7ca7a1728a">
+  <Assemblies>
+    <Assembly Location="AsynchWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="AsynchWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a432a5a10a7af8dd" Namespace="AsynchWebPart" TypeName="XmlFileWebPart" />
+        <SafeControl Assembly="AsynchWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a432a5a10a7af8dd" Namespace="AsynchWebPart" TypeName="FeedWebPart" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="AsynchWebPart_Feature2\Feature.xml" />
+  </FeatureManifests>
+</Solution>

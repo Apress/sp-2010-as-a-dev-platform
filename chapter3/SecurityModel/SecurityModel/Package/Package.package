@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="989e5189-1b04-4781-9b16-24875e9970bd" solutionId="989e5189-1b04-4781-9b16-24875e9970bd" resetWebServer="false" name="SecurityModel" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="546e7272-83b0-42d6-84b0-286130fd0625" />
+  </projectItems>
+</package>

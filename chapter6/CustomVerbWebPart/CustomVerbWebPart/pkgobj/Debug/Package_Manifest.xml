@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="88dccec9-384c-4d93-ae9a-9cf17a193f06">
+  <Assemblies>
+    <Assembly Location="CustomVerbWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CustomVerbWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a19243c2edbaa106" Namespace="CustomVerbWebPart" TypeName="WebPartVerbs" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CustomVerbWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

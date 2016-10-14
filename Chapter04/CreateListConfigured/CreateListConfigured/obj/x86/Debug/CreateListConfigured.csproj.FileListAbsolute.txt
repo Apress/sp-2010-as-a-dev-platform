@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\bin\Debug\CreateListConfigured.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\bin\Debug\CreateListConfigured.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\bin\Debug\CreateListConfigured.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\obj\x86\Debug\CreateListConfigured.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CreateListConfigured\CreateListConfigured\obj\x86\Debug\CreateListConfigured.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="bed56d86-f458-4469-a8b0-51efa87024d9">
+  <CodeAccessSecurity>
+    <PolicyItem>
+      <PermissionSet class="NamedPermissionSet" version="1" Description="Allow File Access">
+        <IPermission class="FileIOPermission" version="1" Unrestricted="true" />
+      </PermissionSet>
+      <Assemblies>
+        <Assembly Name="ResourceBasedVisualWebPart" />
+      </Assemblies>
+    </PolicyItem>
+  </CodeAccessSecurity>
+  <Assemblies>
+    <Assembly Location="ResourceBasedVisualWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ResourceBasedVisualWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0534c696c9dc4a0d" Namespace="ResourceBasedVisualWebPart" TypeName="VisualWebPartVPP" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ResourceBasedVisualWebPart_WebPartVPPFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

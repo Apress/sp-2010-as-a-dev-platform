@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ApplicationPage Add Menuitems" Id="4e8fed7b-0acf-48f9-9b60-4584b5bcd4bc" ReceiverAssembly="ApplicationPage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=791a6f2c4cde1076" ReceiverClass="ApplicationPage.Features.Feature1.Feature1EventReceiver" Scope="Web"></Feature>

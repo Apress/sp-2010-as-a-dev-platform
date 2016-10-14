@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="88dccec9-384c-4d93-ae9a-9cf17a193f06" solutionId="88dccec9-384c-4d93-ae9a-9cf17a193f06" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="CustomVerbWebPart">
+    <features>
+        <featureReference itemId="fba8598f-727f-40e9-b14c-f1b189e9a379" />
+    </features>
+</package>

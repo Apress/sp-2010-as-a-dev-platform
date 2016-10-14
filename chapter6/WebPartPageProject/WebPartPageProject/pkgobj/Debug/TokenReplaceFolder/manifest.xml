@@ -1,0 +1,17 @@
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="62ad2e91-9449-45ca-a42d-42f7762fad72">
+  <Assemblies>
+    <Assembly Location="WebPartPageProject.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="WebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" Namespace="WebPartPageProject.BingWebPart" TypeName="*" />
+        <SafeControl Assembly="WebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" Namespace="WebPartPageProject.ConnectedWebPart" TypeName="SourceWebPart" SafeAgainstScript="True" Safe="True" />
+        <SafeControl Assembly="WebPartPageProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=705eb4c80c166132" Namespace="WebPartPageProject.ConnectedWebPart" TypeName="TargetWebPart" SafeAgainstScript="True" Safe="True" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\WebPartPageProject\WebPartPage.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="WebPartPageProject_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

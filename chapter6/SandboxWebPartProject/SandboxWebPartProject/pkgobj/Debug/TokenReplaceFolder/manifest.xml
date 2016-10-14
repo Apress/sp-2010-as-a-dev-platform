@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="923c3ca4-94be-426e-a4b7-24ea4e96080c">
+  <Assemblies>
+    <Assembly Location="SandboxWebPartProject.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SandboxWebPartProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c6638911236b436" Namespace="SandboxWebPartProject.SandboxWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SandboxWebPartProject_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

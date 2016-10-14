@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a7a230f6-62f3-4702-8717-e42346f79ae6">
+  <CodeAccessSecurity>
+    <PolicyItem>
+      <PermissionSet class="NamedPermissionSet" version="1" Description="Please trust me!">
+        <IPermission class="System.Diagnostics.EventLogPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" PermissionAccess="Write" />
+      </PermissionSet>
+      <Assemblies>
+        <Assembly Name="SecurityWebPart" />
+      </Assemblies>
+    </PolicyItem>
+  </CodeAccessSecurity>
+  <Assemblies>
+    <Assembly Location="SecurityWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SecurityWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9d03c43d49d6da12" Namespace="SecurityWebPart.WebParts" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SecurityWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

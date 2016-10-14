@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\bin\Debug\ResourceWebPart.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\bin\Debug\ResourceWebPart.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\ResourceWebPart.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\ResourceWebPart.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\bin\Debug\en\ResourceWebPart.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\bin\Debug\de\ResourceWebPart.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\Apress.SP2010.ResourceWebPart.NonVisualWebPart.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\Apress.SP2010.ResourceWebPart.NonVisualWebPart.en.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\Apress.SP2010.ResourceWebPart.NonVisualWebPart.de.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\en\ResourceWebPart.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\de\ResourceWebPart.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter08\ResourceWebPart\ResourceWebPart\obj\Debug\Apress.SP2010.ResourceWebPart.NonVisualWebPart.MyResources.Strings.resources

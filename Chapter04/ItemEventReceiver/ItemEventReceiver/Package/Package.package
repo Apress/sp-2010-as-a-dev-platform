@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="03dff703-3c24-4f9c-a247-42b4c67374c7" solutionId="03dff703-3c24-4f9c-a247-42b4c67374c7" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="ItemEventReceiver">
+    <features>
+        <featureReference itemId="8b90e088-8df8-44d4-8764-8d05a5604a51" />
+    </features>
+</package>

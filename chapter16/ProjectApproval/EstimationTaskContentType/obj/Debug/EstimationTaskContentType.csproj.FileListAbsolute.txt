@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.dll
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.pdb
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.dll
+C:\Users\Alex\Documents\SharePointBuch\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.pdb
+C:\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.dll
+C:\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.pdb
+C:\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.dll
+C:\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.pdb
+D:\Projects\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.dll
+D:\Projects\Projects\Workflows\ProjectApproval\EstimationTaskContentType\bin\Debug\EstimationTaskContentType.pdb
+D:\Projects\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.dll
+D:\Projects\Projects\Workflows\ProjectApproval\EstimationTaskContentType\obj\Debug\EstimationTaskContentType.pdb

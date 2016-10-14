@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\bin\Debug\CAMLJoins.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\bin\Debug\CAMLJoins.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\bin\Debug\CAMLJoins.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\obj\x86\Debug\CAMLJoins.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Book\Chapter04\CAMLJoins\CAMLJoins\obj\x86\Debug\CAMLJoins.pdb

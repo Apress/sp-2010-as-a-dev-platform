@@ -1,0 +1,24 @@
+﻿<RuleDefinitions xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<RuleDefinitions.Conditions>
+		<RuleExpressionCondition Name="IsApproved">
+			<RuleExpressionCondition.Expression>
+				<ns0:CodeBinaryOperatorExpression Operator="ValueEquality" xmlns:ns0="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+					<ns1:CodeBinaryOperatorExpression.Right xmlns:ns1="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						<ns2:CodePrimitiveExpression xmlns:ns2="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+							<ns3:CodePrimitiveExpression.Value xmlns:ns3="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+								<ns4:String xmlns:ns4="clr-namespace:System;Assembly=mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Approve</ns4:String>
+							</ns3:CodePrimitiveExpression.Value>
+						</ns2:CodePrimitiveExpression>
+					</ns1:CodeBinaryOperatorExpression.Right>
+					<ns5:CodeBinaryOperatorExpression.Left xmlns:ns5="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						<ns6:CodeFieldReferenceExpression FieldName="outcome" xmlns:ns6="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+							<ns7:CodeFieldReferenceExpression.TargetObject xmlns:ns7="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+								<ns8:CodeThisReferenceExpression xmlns:ns8="clr-namespace:System.CodeDom;Assembly=System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+							</ns7:CodeFieldReferenceExpression.TargetObject>
+						</ns6:CodeFieldReferenceExpression>
+					</ns5:CodeBinaryOperatorExpression.Left>
+				</ns0:CodeBinaryOperatorExpression>
+			</RuleExpressionCondition.Expression>
+		</RuleExpressionCondition>
+	</RuleDefinitions.Conditions>
+</RuleDefinitions>

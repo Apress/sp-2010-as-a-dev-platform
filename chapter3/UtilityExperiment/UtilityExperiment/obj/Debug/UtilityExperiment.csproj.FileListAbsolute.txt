@@ -1,0 +1,5 @@
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UtilityExperiment\UtilityExperiment\bin\Debug\UtilityExperiment.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UtilityExperiment\UtilityExperiment\bin\Debug\UtilityExperiment.pdb
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UtilityExperiment\UtilityExperiment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UtilityExperiment\UtilityExperiment\obj\Debug\UtilityExperiment.dll
+C:\Users\Joerg\Documents\Visual Studio 2010\Projects\chapter3\UtilityExperiment\UtilityExperiment\obj\Debug\UtilityExperiment.pdb
